@@ -1,6 +1,6 @@
 ---
 role: Professor of Artificial Intelligence
-avatar_filename: avatar_270x270.png
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
