@@ -31,7 +31,7 @@ education:
     - course: PhD in The chemical ecology of a model aphid pest, Myzus persicae, and
         its natural enemies
       institution: Keele University, Staffordshire, UK
-      year: 1991
+      year: 2022
     - course: Master of Science in Zoology (Entomology)
       institution: Aligarh Muslim University, India
       year: 2016
