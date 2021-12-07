@@ -1,87 +1,65 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+title: Effects of cis-Jasmone treatment of brassicas on interactions with Myzus
+  persicae aphids and their parasitoid Diaeretiella rapae
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
+  - admin
+  - Anca Covaci
+  - Joe Roberts
+  - Islam Sobhy
+  - William Kirk
+  - Toby Bruce
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
+  - First author
+  - Co-author
+  - Co-author
+  - Co-author
+  - Co-author
+  - Corresponding author
 publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+abstract: "There is a need to develop new ways of protecting plants against
+  aphid attack. Here, we investigated the effect of a plant defence activator,
+  cis-jasmone (CJ), in a range of cultivars of Brassica napus, Brassica rapa and
+  Brassica oleracea. Plants were sprayed with cis-jasmone or blank formulation
+  and then tested with peach potato aphids (Myzus persicae Sulzer) (Hemiptera:
+  Aphididae) and their parasitoid Diaeretiella rapae (M'Intosh) (Hymenoptera:
+  Braconidae). CJ treated plants had significantly lower aphid settlement than
+  control plants in a settlement bioassay. Conversely, in a foraging bioassay,
+  D. rapae parasitoids spent a significantly longer time foraging on CJ treated
+  plants. Our results reveal that CJ treatment makes plants less attractive to
+  and less suitable for M. persicae but more attractive to D. rapae in a range
+  of brassica cultivars. It is likely that these effects are due to changes in
+  volatile emission indicating activation of defence and presence of conspecific
+  competitors to aphids but presence of prey to parasitoids. Increases in
+  volatile emission were found in CJ induced plants but varied with genotype.
+  Among the synthetic volatile compounds that were induced in the headspace of
+  CJ treated brassica cultivars, methyl isothiocyanate, methyl salicylate and
+  cis-jasmone were most repellent to aphids. These results build on earlier
+  studies in Arabidopsis and show that tritrophic interactions are influenced by
+  CJ in a wide range of brassica germplasm. The implication is that CJ is a
+  promising treatment that could be used in brassica crops as part of an
+  integrated pest management system."
 tags: []
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+projects:
+  - example
+slides: example
+url_pdf: ""
+publication_types:
+  - "2"
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+publication: In *Frontiers in Plant Science*
+featured: true
+date: 2021-10-01T00:00:00.000Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
+doi: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
