@@ -4,9 +4,11 @@ title: "Plant defence elicitor: an important tool for inducing defences against
 subtitle: "Author: Jamin Ali is a final year PhD Student based at Keele
   University, UK. You may follow him in Twitter as @JAMIN_ALI_ALI."
 date: 2020-12-13T00:00:00.000Z
-summary: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
+summary: During the last two decades, an accumulated body of research has been
+  carried out to exploit the potential of using plant elicitors to enhance plant
+  immunity. Nevertheless, while major advances have now been made, most of the
+  inducers promoting resistance to herbivores are still at the experimental
+  level.
 draft: false
 featured: false
 authors:
@@ -21,6 +23,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
+  filename: featured.jpg
 ---
 During the last two decades, an accumulated body of research has been carried out to exploit the potential of using plant elicitors to enhance plant immunity. Nevertheless, while major advances have now been made, most of the inducers promoting resistance to herbivores are still at the experimental level.
 
