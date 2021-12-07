@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 2006
+date_format: Jan 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -44,16 +44,16 @@ item:
   date_start: "2017-04-01"
   description: ""
   organization: Government of India
-  organization_url: "https://www.education.gov.in/en"
-  title: 'Overseas Scholarship'
+  organization_url: https://www.education.gov.in/en
+  title: Overseas Scholarship
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2016-07-01"
   description: ""
   organization: CSIR-University Grant Commission of India
-  organization_url: "https://ugcnet.nta.nic.in/"
-  title: 'UGC-JRF'
+  organization_url: https://ugcnet.nta.nic.in
+  title: UGC-JRF
   url: ""
 
 design:
