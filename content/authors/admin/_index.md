@@ -1,12 +1,13 @@
 ---
 role: Professor of Artificial Intelligence
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research focuses on exploiting the chemical ecology of insect-plant
+  tritrophic interaction, induced plant defence to sustainably manage
+  phytophagous insect pests and minimize crop losses.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Problem-solving skills
+  - Critical thinking skills
+  - Project management skills
 social:
   - icon: envelope
     icon_pack: fas
@@ -17,34 +18,29 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Keele
+    url: https://www.keele.ac.uk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in The chemical ecology of a model aphid pest, Myzus persicae, and
+        its natural enemies
+      institution: Keele University, Staffordshire, UK
+      year: 1991
+    - course: Master of Science in Zoology (Entomology)
+      institution: Aligarh Muslim University, India
+      year: 2016
+    - course: Bachelor of Science in Zoology (Hons.)
+      institution: Aligarh Muslim University, India
+      year: 2014
 superuser: true
 highlight_name: true
 title: Jamin Ali
 email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Final year Ph.D. student working in the lab of Prof Toby Bruce at Keele University, United Kingdom. My research focuses on exploiting the chemical ecology of insect-plant tritrophic interaction, induced plant defence to sustainably manage phytophagous insect pests and minimize crop losses.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
