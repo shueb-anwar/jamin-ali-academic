@@ -29,7 +29,7 @@ experience:
     location: Keele University, UK
     date_start: '2019-09-01'
     date_end: ''
-    description: ''.
+    description: ''
 
   - title: TEACHING
     company: Community School
