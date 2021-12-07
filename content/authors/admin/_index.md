@@ -1,26 +1,28 @@
 ---
-role: Professor of Artificial Intelligence
+role: Research Scholar, School of Life Sciences
 avatar_filename: avatar.jpg
 bio: My research focuses on exploiting the chemical ecology of insect-plant
   tritrophic interaction, induced plant defence to sustainably manage
   phytophagous insect pests and minimize crop losses.
 interests:
-  - Problem-solving skills
-  - Critical thinking skills
-  - Project management skills
+  - Chemical Ecology
+  - Insect-Plant Interaction
+  - Induced Plant Defence
+  - Biological Control
+  - Integrated Pest Management
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/JAMIN_ALI_ALI
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=HEMuOzMAAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jamin-ali-976794173/
 organizations:
   - name: University of Keele
     url: https://www.keele.ac.uk/
