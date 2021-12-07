@@ -1,105 +1,53 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
-# Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: "2020-12-13T00:00:00Z"
-
-# Date updated
-lastmod: "2020-12-13T00:00:00Z"
-
-# Is this an unpublished draft?
+title: "Plant defence elicitor: an important tool for inducing defences against
+  insect pests"
+subtitle: "Author: Jamin Ali is a final year PhD Student based at Keele
+  University, UK. You may follow him in Twitter as @JAMIN_ALI_ALI."
+date: 2020-12-13T00:00:00Z
+summary: Welcome 👋 We know that first impressions are important, so we've
+  populated your new site with some initial content to help you get familiar
+  with everything in no time.
 draft: false
-
-# Show this page in the Featured widget?
 featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+authors:
+  - admin
+  - 吳恩達
+lastmod: 2020-12-13T00:00:00Z
+tags:
+  - Academic
+  - 开源
+categories:
+  - Demo
+  - 教程
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
   focal_point: ""
   placement: 2
   preview_only: false
-
-authors:
-- admin
-- 吳恩達
-
-tags:
-- Academic
-- 开源
-
-categories:
-- Demo
-- 教程
 ---
+During the last two decades, an accumulated body of research has been carried out to exploit the potential of using plant elicitors to enhance plant immunity. Nevertheless, while major advances have now been made, most of the inducers promoting resistance to herbivores are still at the experimental level.
 
-## Overview
+In our recent study, cis-jasmone (CJ), a plant defence elicitor, was tested in a range of genotypes of *Brassica napus, Brassica rapa,* and *Brassica oleracea*. Plants were sprayed with cis-jasmone or blank formulation and then tested with *Myzus persicae* aphids and its parasitoid *Diaeretiella rapae*. This work is mainly based on the theme “*slow down and speed up strategy”*. We found that CJ slowed down the population of aphids through various aspects and enhanced the foraging behavior of *D. rapae*. Brassica plants treated with CJ showed the induced defense categorized into Direct and Indirect Defenses.
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+## **Direct Defense**  
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+Bioassays using clip-cage showed that CJ treated plants showed a smaller number of survived adult aphids. The same trend was observed in the case of nymphs production where treated plants showed significantly less nymphs. Additionally, settlement bioassays showed the same pattern; the number of settled aphids was considerably lower on CJ treated plants than control plants. However, the genetics behind this defense is still unknown.
 
-## Get Started
+Opposite results had been obtained when a performance bioassay was performed with *D. rapae*. **Therefore, our results showed that CJ treatment makes the plants more attractive to the aphid parasitoid and less attractive to the aphid itself.**  
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+![Plant defence elicitor: an important tool for inducing defences against insect pests](https://globalplantcouncil.org/wp-content/uploads/2021/11/imagen-2048x892.jpg "Plant defence elicitor: an important tool for inducing defences against insect pests")
 
-## Crowd-funded open-source software
+## **Indirect defense**
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+Along with the performance bioassays, we collected air entrainment of treated and control plants. Olfactometer results showed that volatiles collected from treated plants act as a repellent to aphids. However, parasitoids spent a longer time in the olfactometer’s arm with volatiles collected from CJ plants.
 
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/)
+The majority of CJ treated plants showed a high number of volatile compounds, both regarding quality and quantity. It was clear that CJ treatment induces direct defense in plants and is also responsible for the change in volatile emission. The difference in volatile profile recruits the natural enemies of the pest and therefore enhances indirect defense as well.  
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/plans/) awesome rewards and extra features 🦄✨**
+## **Conclusion**
 
-## Ecosystem
+**Taken together, our data show that CJ treatment of a diverse sample of crop brassica cultivars can, as hypothesised, make the plants less suitable and less attractive for *M. persicae* aphids but more attractive to its key parasitoid, *D. rapae*.** Aphid survival and nymph production were reduced on CJ treated plants and aphids avoided CJ treated plants. Conversely, *D. rapae* spent longer foraging on CJ treated plants.
 
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+However, this effect was brassica cultivar dependent. This is not surprising because any induction of plant defence triggered by a chemical elicitor depends on the existence of an inducible defence trait. Evidence can be seen for differential response between brassica cultivars from the volatile analysis. While there was some variation between genotypes, current results were found in almost in all genotypes, which is promising. In five of the six genotypes tested, both aphid settlement was reduced and parasitoid foraging increased. This simultaneous “*slow down*” of aphid growth combined with a “*speed up*” of parasitoid activity could be very valuable in pest management.
 
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
-
-## Features
-
-- **Page builder** - Create *anything* with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
+The next step in this research are field experiments. We found an increase in volatile emission from CJ treated plants that could perhaps explain why aphid settlement was reduced and parasitoid foraging increased. I am interested to look at the genetics underpinning these effects in my future research.
