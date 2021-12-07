@@ -15,7 +15,7 @@ author_notes:
   - Co-author
   - Co-author
   - Corresponding author
-publication_short: In *ICW*
+publication_short: ""
 abstract: "There is a need to develop new ways of protecting plants against
   aphid attack. Here, we investigated the effect of a plant defence activator,
   cis-jasmone (CJ), in a range of cultivars of Brassica napus, Brassica rapa and
