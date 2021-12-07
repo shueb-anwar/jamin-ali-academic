@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Fellowship'
+title: 'Fellowships'
 subtitle:
 
 # Date format
@@ -31,14 +31,14 @@ item:
   organization_url: https://www.education.gov.in/en
   title: The Graduate Aptitude Test in Engineering (GATE)
   url: https://www.education.gov.in/en
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+# - certificate_url: https://www.edx.org
+#   date_end: ""
+#   date_start: "2021-01-01"
+#   description: Formulated informed blockchain models, hypotheses, and use cases.
+#   organization: edX
+#   organization_url: https://www.edx.org
+#   title: Blockchain Fundamentals
+#   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: ""
   date_end: ""
   date_start: "2017-04-01"
