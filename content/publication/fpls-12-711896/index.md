@@ -39,18 +39,15 @@ abstract: "There is a need to develop new ways of protecting plants against
   promising treatment that could be used in brassica crops as part of an
   integrated pest management system."
 tags: []
-projects:
-  - example
-slides: example
 url_pdf: ""
 publication_types:
   - "2"
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: "Frontiers in Plant Science"
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: Helo World
+summary: Hello World
 url_dataset: ""
 url_project: ""
 url_source: ""

@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: ''
 
-  - title: TEACHING
+  - title: Teaching
     company: Community School
     company_url: ''
     company_logo: org-gc
