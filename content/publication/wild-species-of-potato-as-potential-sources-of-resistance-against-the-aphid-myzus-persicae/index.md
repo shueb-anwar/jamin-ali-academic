@@ -12,7 +12,7 @@ author_notes:
   - co-author
   - co-author
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
