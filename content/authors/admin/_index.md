@@ -28,8 +28,7 @@ organizations:
     url: https://www.keele.ac.uk/
 education:
   courses:
-    - course: PhD in The chemical ecology of a model aphid pest, Myzus persicae, and
-        its natural enemies
+    - course: PhD Chemical Ecology (Applied Entomology)
       institution: Keele University, Staffordshire, UK
       year: 2022
     - course: Master of Science in Zoology (Entomology)

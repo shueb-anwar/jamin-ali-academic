@@ -29,12 +29,13 @@ experience:
     location: Beresford, Stoke-on-Trent, UK
     date_start: '2019-01-01'
     date_end: '2019-06-30'
-    description: |2-
-        Responsibilities include:
+    description: ''
+    # description: |2-
+    #     Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+    #     * Analysing
+    #     * Modelling
+    #     * Deploying
         
   # - title: Professor of Semiconductor Physics
   #   company: University X

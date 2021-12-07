@@ -41,10 +41,18 @@ item:
 #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: ""
   date_end: ""
+  date_start: "2017-04-01"
+  description: ""
+  organization: Government of India
+  organization_url: ""
+  title: 'Overseas Scholarship'
+  url: ""
+- certificate_url: ""
+  date_end: ""
   date_start: "2016-07-01"
   description: ""
-  organization: CSIR-University Grant Commission of Indi
-  organization_url: https://www.datacamp.com
+  organization: CSIR-University Grant Commission of India
+  organization_url: ""
   title: 'UGC-JRF'
   url: ""
 
