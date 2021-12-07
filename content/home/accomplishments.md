@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -28,23 +28,23 @@ item:
   date_start: "2018-01-25"
   description: ""
   organization: Government of India
-  organization_url: ""
+  organization_url: "https://www.education.gov.in/en"
   title: The Graduate Aptitude Test in Engineering (GATE)
   url: ""
-# - certificate_url: https://www.edx.org
-#   date_end: ""
-#   date_start: "2021-01-01"
-#   description: Formulated informed blockchain models, hypotheses, and use cases.
-#   organization: edX
-#   organization_url: https://www.edx.org
-#   title: Blockchain Fundamentals
-#   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- certificate_url: https://www.edx.org
+  date_end: ""
+  date_start: "2021-01-01"
+  description: Formulated informed blockchain models, hypotheses, and use cases.
+  organization: edX
+  organization_url: https://www.edx.org
+  title: Blockchain Fundamentals
+  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: ""
   date_end: ""
   date_start: "2017-04-01"
   description: ""
   organization: Government of India
-  organization_url: ""
+  organization_url: "https://www.education.gov.in/en"
   title: 'Overseas Scholarship'
   url: ""
 - certificate_url: ""
@@ -52,7 +52,7 @@ item:
   date_start: "2016-07-01"
   description: ""
   organization: CSIR-University Grant Commission of India
-  organization_url: ""
+  organization_url: "https://ugcnet.nta.nic.in/"
   title: 'UGC-JRF'
   url: ""
 
