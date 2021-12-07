@@ -43,4 +43,4 @@ email: ""
 ---
 I am a Final year Ph.D. student working in the lab of Prof Toby Bruce at Keele University, United Kingdom. My research focuses on exploiting the chemical ecology of insect-plant tritrophic interaction, induced plant defence to sustainably manage phytophagous insect pests and minimize crop losses.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
