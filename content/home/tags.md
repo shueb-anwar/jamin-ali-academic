@@ -1,8 +1,8 @@
 ---
-widget: tag_cloud
+widget: portfolio
 widget_id: Ongoing Research
 headless: true
-weight: 120
+weight: 65
 title: Ongoing Reserach
 subtitle: Induced Defence, Plant-Plant Communication
 content:
