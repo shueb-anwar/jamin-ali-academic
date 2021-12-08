@@ -6,10 +6,13 @@ summary: Ants are eusocial insects of the family Formicidae and, along with the
   related wasps and bees, belong to the order Hymenoptera.
 draft: false
 featured: true
+authors:
+  - Admin
+  - Shoeba Binte Anis
 categories:
   - Master's Project
 image:
-  filename: https-specials-images.forbesimg.com-dam-imageserve-1151689898-0x0.jpg-fit-scale.jpeg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
