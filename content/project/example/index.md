@@ -1,9 +1,6 @@
 ---
 slides: example
 url_pdf: ""
-title: The chemical ecology of a model aphid pest, Myzus persicae, and its
-  natural enemies
-subtitle: Peach-potato aphid
 summary: The peach-potato aphid, Myzus persicae, has a very short generation
   time, high reproductive rate and can spread easily. It has the ability to
   evolve detoxification mechanisms for toxic chemicals, be they from the wide
@@ -14,11 +11,15 @@ authors:
   - Toby Bruce
 url_video: ""
 date: 2018-05-08T00:00:00.000Z
+featured: true
+external_link: ""
+url_slides: ""
+title: The chemical ecology of a model aphid pest, Myzus persicae, and its
+  natural enemies
+subtitle: Peach-potato aphid
 tags: []
 categories:
   - PhD Project
-external_link: ""
-url_slides: ""
 links: []
 image:
   caption: GardeningEtc
