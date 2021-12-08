@@ -1,7 +1,7 @@
 ---
 widget: https://www.jaminali.com/admin/#/collections/home/entries/tags
-widget_id: Ongoing Research
-weight: 65
+widget_id: Ongoing-Research
+weight: 40
 title: Ongoing Reserach
 subtitle: ""
 active: true
