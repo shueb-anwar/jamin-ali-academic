@@ -23,10 +23,10 @@ categories:
 links: []
 image:
   caption: GardeningEtc
-  focal_point: Smart
+  focal_point: Center
   alt_text: ""
   filename: ybnvpqcfcu5ebifeb6bm9a.jpg
-  preview_only: true
+  preview_only: false
 url_code: ""
 ---
 **Background**
