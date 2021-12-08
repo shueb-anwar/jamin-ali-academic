@@ -11,7 +11,7 @@ content:
 design:
   font_size_min: 0.7
   font_size_max: 2
-  columns: "1"
+  columns: "'1'"
   background:
     image: featured.jpg
 ---
