@@ -1,6 +1,8 @@
 ---
 title: Lemongrass essential oil components with antimicrobial and anticancer
   activities
+subtitle: Lemongrass is ideal for pest control due to its antifungal and
+  antimicrobial properties.
 publication_types:
   - "2"
 authors:
