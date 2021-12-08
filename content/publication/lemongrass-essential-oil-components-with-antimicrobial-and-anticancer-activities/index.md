@@ -44,7 +44,7 @@ draft: false
 featured: false
 image:
   filename: featured.png
-  focal_point: Smart
+  focal_point: Top
   preview_only: false
 summary: The prominent cultivation of lemongrass relies on the pharmacological
   incentives of its essential oil. The lemongrass essential oil (LEO) has a
