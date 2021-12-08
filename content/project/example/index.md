@@ -23,7 +23,7 @@ categories:
 links: []
 image:
   caption: GardeningEtc
-  focal_point: CENTER
+  focal_point: Top
   alt_text: ""
   filename: featured.png
   preview_only: false
