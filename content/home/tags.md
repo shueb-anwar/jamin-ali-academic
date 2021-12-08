@@ -4,7 +4,7 @@ widget_id: Ongoing Research
 headless: true
 weight: 65
 title: Ongoing Reserach
-subtitle: Induced Defence, Plant-Plant Communication
+subtitle: ""
 content:
   taxonomy: tags
   count: 20
@@ -13,3 +13,4 @@ design:
   font_size_max: 2
   columns: "2"
 ---
+Induced Defence, Plant-Plant Communication
