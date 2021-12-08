@@ -1,5 +1,11 @@
 ---
 widget: experience
+widget_id: experience
+headless: true
+weight: 40
+title: Experience
+subtitle: null
+active: true
 date_format: Jan 2006
 experience:
   - title: Demonstration
@@ -18,11 +24,6 @@ experience:
     date_start: 2019-01-01
     date_end: 2019-06-30
     description: ""
-widget_id: experience
-headless: true
-weight: 40
-title: Experience
-subtitle: null
 design:
   columns: "1"
   background:
