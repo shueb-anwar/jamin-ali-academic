@@ -1,10 +1,10 @@
 ---
-widget: tag-ongoing
+widget: tag-ongoing research
 widget_id: Ongoing-Research
 weight: 40
 title: Ongoing Reserach
 subtitle: ""
-active: true
+active: false
 content:
   taxonomy: tags
   count: 20
@@ -16,5 +16,6 @@ design:
   background:
     image: image.jpg
     image_darken: 0
+    text_color_light: false
 ---
 Induced Defence, Plant-Plant Communication
