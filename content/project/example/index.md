@@ -19,7 +19,7 @@ categories:
   - PhD Project
 links: []
 image:
-  caption: GardeningEtc
+  caption: ""
   focal_point: Top
   alt_text: ""
   filename: featured.png
