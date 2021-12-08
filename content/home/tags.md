@@ -1,13 +1,14 @@
 ---
 widget: Ongoing research
 widget_id: Ongoing Research
-headless: true
 weight: 65
 title: Ongoing Reserach
 subtitle: ""
+active: true
 content:
   taxonomy: tags
   count: 20
+headless: true
 design:
   font_size_min: 0.7
   font_size_max: 2
