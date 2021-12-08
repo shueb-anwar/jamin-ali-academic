@@ -2,17 +2,10 @@
 title: Collection and Identification of Ants around the A.M.U. Campus Aligarh, India.
 subtitle: Ant taxonomy
 date: 2021-12-08T15:51:21.863Z
-summary: Ants are [eusocial](https://en.wikipedia.org/wiki/Eusociality
-  "Eusociality") [insects](https://en.wikipedia.org/wiki/Insect "Insect") of
-  the [family](https://en.wikipedia.org/wiki/Family_(biology) "Family
-  (biology)") Formicidae and, along with the
-  related [wasps](https://en.wikipedia.org/wiki/Wasp
-  "Wasp") and [bees](https://en.wikipedia.org/wiki/Bee "Bee"), belong to
-  the [order](https://en.wikipedia.org/wiki/Taxonomy_(biology) "Taxonomy
-  (biology)") [Hymenoptera](https://en.wikipedia.org/wiki/Hymenoptera
-  "Hymenoptera").
+summary: Ants are eusocial insects of the family Formicidae and, along with the
+  related wasps and bees, belong to the order Hymenoptera.
 draft: false
-featured: false
+featured: true
 image:
   filename: https-specials-images.forbesimg.com-dam-imageserve-1151689898-0x0.jpg-fit-scale.jpeg
   focal_point: Smart
