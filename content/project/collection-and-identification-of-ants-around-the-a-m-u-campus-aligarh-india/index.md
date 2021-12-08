@@ -1,0 +1,31 @@
+---
+title: Collection and Identification of Ants around the A.M.U. Campus Aligarh, India.
+subtitle: Ant taxonomy
+date: 2021-12-08T15:51:21.863Z
+summary: Ants are [eusocial](https://en.wikipedia.org/wiki/Eusociality
+  "Eusociality") [insects](https://en.wikipedia.org/wiki/Insect "Insect") of
+  the [family](https://en.wikipedia.org/wiki/Family_(biology) "Family
+  (biology)") Formicidae and, along with the
+  related [wasps](https://en.wikipedia.org/wiki/Wasp
+  "Wasp") and [bees](https://en.wikipedia.org/wiki/Bee "Bee"), belong to
+  the [order](https://en.wikipedia.org/wiki/Taxonomy_(biology) "Taxonomy
+  (biology)") [Hymenoptera](https://en.wikipedia.org/wiki/Hymenoptera
+  "Hymenoptera").
+draft: false
+featured: false
+image:
+  filename: https-specials-images.forbesimg.com-dam-imageserve-1151689898-0x0.jpg-fit-scale.jpeg
+  focal_point: Smart
+  preview_only: false
+---
+**Ants are [eusocial](https://en.wikipedia.org/wiki/Eusociality "Eusociality") [insects](https://en.wikipedia.org/wiki/Insect "Insect") of the [family](https://en.wikipedia.org/wiki/Family_(biology) "Family (biology)") Formicidae and, along with the related [wasps](https://en.wikipedia.org/wiki/Wasp "Wasp") and [bees](https://en.wikipedia.org/wiki/Bee "Bee"), belong to the [order](https://en.wikipedia.org/wiki/Taxonomy_(biology) "Taxonomy (biology)") [Hymenoptera](https://en.wikipedia.org/wiki/Hymenoptera "Hymenoptera").** Ants appear in the [fossil record](https://en.wikipedia.org/wiki/Fossil_record "Fossil record") across the globe in considerable diversity during the latest [Early Cretaceous](https://en.wikipedia.org/wiki/Early_Cretaceous "Early Cretaceous") and early [Late Cretaceous](https://en.wikipedia.org/wiki/Late_Cretaceous "Late Cretaceous"), suggesting an [earlier origin](https://en.wikipedia.org/wiki/Ghost_lineage "Ghost lineage"). Ants evolved from [vespoid](https://en.wikipedia.org/wiki/Vespoidea "Vespoidea") [wasp](https://en.wikipedia.org/wiki/Wasp "Wasp") ancestors in the [Cretaceous](https://en.wikipedia.org/wiki/Cretaceous "Cretaceous") period, and [diversified](https://en.wikipedia.org/wiki/Evolutionary_radiation "Evolutionary radiation") after the rise of [flowering plants](https://en.wikipedia.org/wiki/Flowering_plant "Flowering plant"). More than 13,800 of an estimated total of 22,000 [species](https://en.wikipedia.org/wiki/Species "Species") have been classified. They are easily identified by their geniculate (elbowed) [antennae](https://en.wikipedia.org/wiki/Antenna_(biology) "Antenna (biology)") and the distinctive node-like structure that forms their slender waists.
+
+Ants form [colonies](https://en.wikipedia.org/wiki/Ant_colony "Ant colony") that range in size from a few dozen predatory individuals living in small natural cavities to highly organised colonies that may occupy large territories and consist of millions of individuals. Larger colonies consist of various castes of sterile, wingless females, most of which are workers (ergates), as well as soldiers (dinergates) and other specialised groups. Nearly all ant colonies also have some fertile males called "drones" and one or more fertile females called "[queens](https://en.wikipedia.org/wiki/Queen_ant "Queen ant")" ([gynes](https://en.wikipedia.org/wiki/Gyne "Gyne")). The colonies are described as [superorganisms](https://en.wikipedia.org/wiki/Superorganism "Superorganism") because the ants appear to operate as a unified entity, collectively working together to support the colony
+
+[](https://en.wikipedia.org/wiki/File:Blackants-bredcrust-tokyo-may2015.webm "Enlarge")
+
+(video) Ants gathering food
+
+Ants have colonised almost every landmass on [Earth](https://en.wikipedia.org/wiki/Earth "Earth"). The only places lacking [indigenous](https://en.wikipedia.org/wiki/Indigenous_(ecology) "Indigenous (ecology)") ants are [Antarctica](https://en.wikipedia.org/wiki/Antarctica "Antarctica") and a few remote or inhospitable islands. Ants thrive in most ecosystems and may form 15–25% of the [terrestrial animal](https://en.wikipedia.org/wiki/Terrestrial_animal "Terrestrial animal") [biomass](https://en.wikipedia.org/wiki/Biomass_(ecology) "Biomass (ecology)"). Their success in so many environments has been attributed to their social organisation and their ability to modify habitats, tap resources, and defend themselves. Their long [co-evolution](https://en.wikipedia.org/wiki/Co-evolution "Co-evolution") with other species has led to [mimetic](https://en.wikipedia.org/wiki/Mimicry "Mimicry"), [commensal](https://en.wikipedia.org/wiki/Commensalism "Commensalism"), [parasitic](https://en.wikipedia.org/wiki/Parasitism "Parasitism"), and [mutualistic](https://en.wikipedia.org/wiki/Mutualism_(biology) "Mutualism (biology)") relationships.
+
+Ant societies have [division of labour](https://en.wikipedia.org/wiki/Division_of_labour "Division of labour"), communication between individuals, and an ability to [solve complex problems](https://en.wikipedia.org/wiki/Problem_solving "Problem solving"). These parallels with [human societies](https://en.wikipedia.org/wiki/Civilization "Civilization")have long been an inspiration and subject of study. Many human cultures make use of ants in cuisine, medication, and rites. Some species are valued in their role as [biological pest control](https://en.wikipedia.org/wiki/Biological_pest_control "Biological pest control") agents. Their ability to exploit resources may bring ants into conflict with humans, however, as they can damage crops and invade buildings. Some species, such as the [red imported fire ant](https://en.wikipedia.org/wiki/Red_imported_fire_ant "Red imported fire ant") (*Solenopsis invicta*), are regarded as [invasive species](https://en.wikipedia.org/wiki/Invasive_species "Invasive species"), establishing themselves in areas where they have been introduced accidentally.
