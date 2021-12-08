@@ -4,7 +4,7 @@ widget_id: Ongoing Research
 weight: 65
 title: Ongoing Reserach
 subtitle: ""
-active: true
+active: false
 content:
   taxonomy: tags
   count: 20
