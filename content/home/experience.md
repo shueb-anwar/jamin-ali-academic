@@ -2,7 +2,7 @@
 widget: experience
 widget_id: experience
 headless: true
-weight: 40
+weight: 65
 title: Experience
 subtitle: null
 active: false
