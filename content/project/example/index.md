@@ -25,7 +25,7 @@ image:
   caption: GardeningEtc
   focal_point: Smart
   alt_text: ""
-  filename: ybnvpqcfcu5ebifeb6bm9a.jpg
+  filename: featured.png
   preview_only: false
 url_code: ""
 ---
