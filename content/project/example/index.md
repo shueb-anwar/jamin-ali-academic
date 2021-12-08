@@ -1,5 +1,5 @@
 ---
-slides: example
+# slides: example
 url_pdf: ""
 summary: The peach-potato aphid, Myzus persicae, has a very short generation
   time, high reproductive rate and can spread easily.
