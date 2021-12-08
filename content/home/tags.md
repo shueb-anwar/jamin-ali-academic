@@ -1,10 +1,10 @@
 ---
 widget: Ongoing research
-widget_id: Ongoing Research
+widget_id: Ongoing-Research
 weight: 65
 title: Ongoing Reserach
 subtitle: ""
-active: false
+active: true
 content:
   taxonomy: tags
   count: 20
