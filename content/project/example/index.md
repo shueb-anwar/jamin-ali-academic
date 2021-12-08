@@ -22,7 +22,7 @@ image:
   caption: ""
   focal_point: Top
   alt_text: ""
-  filename: aphids.jpg
+  filename: featured.png
   preview_only: false
 url_code: ""
 ---
