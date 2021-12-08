@@ -1,5 +1,5 @@
 ---
-widget: portfolio
+widget: Ongoing research
 widget_id: Ongoing Research
 headless: true
 weight: 65
@@ -12,5 +12,7 @@ design:
   font_size_min: 0.7
   font_size_max: 2
   columns: "2"
+  background:
+    image: featured.jpg
 ---
 Induced Defence, Plant-Plant Communication
