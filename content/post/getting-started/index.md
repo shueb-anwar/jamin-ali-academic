@@ -20,7 +20,7 @@ categories: []
 projects: []
 image:
   caption: ""
-  focal_point: ""
+  focal_point: Top
   placement: 2
   preview_only: false
   filename: featured.jpg
