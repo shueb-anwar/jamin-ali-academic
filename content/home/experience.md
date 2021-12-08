@@ -1,6 +1,6 @@
 ---
 widget: experience
-widget_id: experience-
+widget_id: experience
 headless: true
 weight: 40
 title: Experience
@@ -25,7 +25,7 @@ experience:
     date_end: 2019-06-30
     description: ""
 design:
-  columns: "2"
+  columns: "1"
   background:
     image_darken: ""
 ---
