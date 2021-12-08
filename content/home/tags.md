@@ -1,5 +1,5 @@
 ---
-widget: https://www.jaminali.com/admin/#/collections/home/entries/tags
+widget: tag-ongoing
 widget_id: Ongoing-Research
 weight: 40
 title: Ongoing Reserach
