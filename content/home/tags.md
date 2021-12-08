@@ -1,5 +1,5 @@
 ---
-widget: HTTPS://JAMINALI.COM/DOCS/PAGE-BUILDER
+widget: https://www.jaminali.com/admin/#/collections/home/entries/tags
 widget_id: Ongoing Research
 weight: 65
 title: Ongoing Reserach
