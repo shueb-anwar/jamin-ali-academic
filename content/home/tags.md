@@ -1,6 +1,6 @@
 ---
-widget: Ongoing research
-widget_id: Ongoing-Research
+widget: HTTPS://JAMINALI.COM/DOCS/PAGE-BUILDER
+widget_id: Ongoing Research
 weight: 65
 title: Ongoing Reserach
 subtitle: ""
