@@ -25,7 +25,7 @@ experience:
     date_end: 2019-06-30
     description: ""
 design:
-  columns: "1"
+  columns: "2"
   background:
     image_darken: ""
 ---
