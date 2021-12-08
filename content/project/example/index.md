@@ -8,7 +8,7 @@ authors:
   - Toby Bruce
 url_video: ""
 date: 2018-05-08T00:00:00.000Z
-featured: true
+featured: false
 external_link: ""
 url_slides: ""
 title: The chemical ecology of a model aphid pest, Myzus persicae, and its
