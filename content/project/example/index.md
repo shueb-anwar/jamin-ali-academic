@@ -25,6 +25,7 @@ image:
   focal_point: Smart
   alt_text: ""
   filename: ybnvpqcfcu5ebifeb6bm9a.jpg
+  preview_only: true
 url_code: ""
 ---
 **Background**
