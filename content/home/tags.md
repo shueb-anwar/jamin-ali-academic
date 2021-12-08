@@ -12,7 +12,7 @@ headless: true
 design:
   font_size_min: 0.7
   font_size_max: 2
-  columns: "'1'"
+  columns: "2"
   background:
     image: image.jpg
 ---
