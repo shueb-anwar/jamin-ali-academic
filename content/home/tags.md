@@ -14,6 +14,6 @@ design:
   font_size_max: 2
   columns: "'1'"
   background:
-    image: featured.jpg
+    image: image.jpg
 ---
 Induced Defence, Plant-Plant Communication
