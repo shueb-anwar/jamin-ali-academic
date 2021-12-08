@@ -1,6 +1,6 @@
 ---
 widget: tag_cloud
-widget_id: Ongoing Reserach
+widget_id: Ongoing Research
 headless: true
 weight: 120
 title: Ongoing Reserach
