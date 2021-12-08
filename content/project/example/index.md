@@ -23,7 +23,7 @@ categories:
 links: []
 image:
   caption: GardeningEtc
-  focal_point: Center
+  focal_point: Smart
   alt_text: ""
   filename: ybnvpqcfcu5ebifeb6bm9a.jpg
   preview_only: false
