@@ -41,7 +41,7 @@ abstract: The prominent cultivation of lemongrass relies on the pharmacological
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 summary: The prominent cultivation of lemongrass relies on the pharmacological
