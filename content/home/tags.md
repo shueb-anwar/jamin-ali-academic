@@ -1,6 +1,6 @@
 ---
-widget: tag-ongoing research
-widget_id: Ongoing-Research
+widget: ongoing research
+widget_id: Ongoing research
 weight: 40
 title: Ongoing Reserach
 subtitle: ""
