@@ -4,7 +4,7 @@ widget_id: Ongoing research
 weight: 40
 title: Ongoing Reserach
 subtitle: ""
-active: true
+active: false
 content:
   taxonomy: tags
   count: 20
@@ -15,10 +15,7 @@ design:
   columns: "'1'"
   background:
     image: image.jpg
-    image_darken: ""
-    text_color_light: true
-    color: "#352a20"
-    gradient_start: "#1c1816"
-    gradient_end: "#1c1818"
+    image_darken: 0
+    text_color_light: false
 ---
 Induced Defence, Plant-Plant Communication
