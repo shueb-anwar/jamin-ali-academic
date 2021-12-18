@@ -1,7 +1,11 @@
 ---
-# Homepage
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: Research Experience
+widget_id: Research-Experience
 headless: true
+weight: 45
+title: Plant-Plant communication
+design:
+  background:
+    image: featured.jpg
 ---
