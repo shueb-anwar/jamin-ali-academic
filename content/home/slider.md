@@ -32,10 +32,10 @@ item:
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
   - title: Plant Headspace Sampling
-    content: 'I am left aligned 😄'
-    align: left
-    overlay_color: '#555'
-    overlay_img: ''
+    content: 'Headspace sampling can be used to collect volatile compounds from living odour sources such as intact plants. Dynamic headspace analysis, commonly referred to as air entrainment, involves drawing clean air over the odour source (e.g. a plant) and then through an adsorbent polymer that collects the volatile compounds. Volatile compounds are then removed either by thermal desorbtion or by eluting with a solvent'
+    align: center
+    overlay_color: '#666'
+    overlay_img: 'plant-headspace-sampling.jpg'
     overlay_filter: 0.5
   - title: Right
     content: 'I am right aligned 😄'
