@@ -1,7 +1,11 @@
 ---
-# Homepage
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: HTTPS://JAMIALI.COM/INDEX/RESEARCH-EXPERIENCE/
+widget_id: Research-Experience
 headless: true
+weight: 45
+title: Plant-Plant communication
+design:
+  background:
+    image: featured.jpg
 ---
