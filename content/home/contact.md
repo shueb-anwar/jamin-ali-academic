@@ -18,9 +18,9 @@ content:
   
   # Email form provider
   form:
-    provider: mgedvaay #netlify
+    provider: netlify
     formspree:
-      id: mgedvaay
+      id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
