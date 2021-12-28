@@ -36,11 +36,17 @@ item:
     align: center
     overlay_color: '#666'
     overlay_img: 'plant-headspace-sampling.jpg'
-    overlay_filter: 0.5
-  - title: Right
-    content: 'I am right aligned 😄'
+    overlay_filter: 1
+  - title: Insect Behavioural Bioassay
+    content: 'The behavioural activity of volatile compounds can be studied using olfactometers. These usually involve a container in which an insect is placed which is sealed except for a number of channels through which air carrying test odours is drawn. Insects inside the olfactometer are able to move around and "choose" an odour source. The four-arm olfactometer records time spent in each region and therefore makes no distinction between attraction and arrestment or between repulsion and locomotion stimulation but can be initially useful in establishing a behavioural response to a semiochemical where the nature of the response is unknown.'
     align: right
-    overlay_color: '#333'
-    overlay_img: ''
-    overlay_filter: 0.5
+    overlay_color: '#666'
+    overlay_img: insect-behavioural-bioassay.jpg
+    overlay_filter: 1
+  - title: Plant Chemical Analysis
+    content: 'Gas chromatography (GC) is an analytical separation method. It is a rapid technique and can separate a wide range of compounds at a high resolution but the analytes have to be sufficiently volatile. Gas chromatography can be coupled with mass spectrometry (GC-MS). In mass spectrometry, a substance is bombarded with an electron beam fragmenting the molecule and from this a tentative identification of the substance can be made. Tentative identification can be confirmed by performing peak enhancement co-injection on a number of different column types in a GC.'
+    align: center
+    overlay_color: '#666'
+    overlay_img: plant-chemical-analysis.jpg
+    overlay_filter: 1
 ---
