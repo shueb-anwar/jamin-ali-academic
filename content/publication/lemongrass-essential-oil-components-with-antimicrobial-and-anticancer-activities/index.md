@@ -41,8 +41,8 @@ abstract: The prominent cultivation of lemongrass relies on the pharmacological
   lemongrass extracts in cancer and health treatment, and in food industry
   applications.
 draft: false
-featured: true
-url_pdf: "pubications/lemongrass-essential-oil-components-with-antimicrobial-and-anticancer-activities/antioxidants-11-00020-2-2.pdf"
+featured: false
+url_pdf: "publication/lemongrass-essential-oil-components-with-antimicrobial-and-anticancer-activities/antioxidants-11-00020-2-2.pdf"
 image:
   filename: featured.png
   focal_point: Top
