@@ -1,6 +1,6 @@
 ---
-title: Wild species of potato as potential sources of resistance against the
-  aphid Myzus persicae
+title: Wild potato ancestors as potential sources of resistance to the aphid
+  Myzus persicae
 publication_types:
   - "2"
 authors:
