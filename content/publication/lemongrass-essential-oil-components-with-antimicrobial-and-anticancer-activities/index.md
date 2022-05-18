@@ -42,6 +42,7 @@ abstract: The prominent cultivation of lemongrass relies on the pharmacological
   applications.
 draft: false
 featured: true
+url_pdf: "antioxidants-11-00020-2-2.pdf"
 image:
   filename: featured.png
   focal_point: Top

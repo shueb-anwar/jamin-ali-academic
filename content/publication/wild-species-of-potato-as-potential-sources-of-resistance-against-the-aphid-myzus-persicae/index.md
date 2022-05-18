@@ -12,6 +12,7 @@ author_notes:
   - co-author
   - co-author
 draft: false
+url_pdf: "Pest Management Science - 2022 - Ali - Wild potato ancestors as potential sources of resistance to the aphid Myzus persicae-2.pdf"
 featured: false
 image:
   filename: featured
