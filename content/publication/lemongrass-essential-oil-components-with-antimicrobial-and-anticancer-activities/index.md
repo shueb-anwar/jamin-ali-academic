@@ -41,7 +41,7 @@ abstract: The prominent cultivation of lemongrass relies on the pharmacological
   lemongrass extracts in cancer and health treatment, and in food industry
   applications.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured.png
   focal_point: Top
