@@ -59,5 +59,5 @@ title: Effects of cis-Jasmone treatment of brassicas on interactions with Myzus
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: ""
+doi: "doi: 10.3389/fpls.2021.711896"
 ---
