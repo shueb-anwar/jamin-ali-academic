@@ -11,6 +11,8 @@ author_notes:
   - First-author
   - co-author
   - co-author
+doi: "DOI: 10.1002/ps.6957"
+publication: In Pest Management Science
 draft: false
 url_pdf: publication/wild-species-of-potato-as-potential-sources-of-resistance-against-the-aphid-myzus-persicae/Pest-Management-Science-2022-Ali-Wild_potato_ancestors_as_potential_sources_of_resistance_to_the_aphid_Myzus_persicae-2.pdf
 featured: true
