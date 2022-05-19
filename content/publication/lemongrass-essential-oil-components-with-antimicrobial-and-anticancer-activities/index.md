@@ -3,8 +3,6 @@ title: Lemongrass essential oil components with antimicrobial and anticancer
   activities
 subtitle: Lemongrass is ideal for pest control due to its antifungal and
   antimicrobial properties.
-publication_types:
-  - "2"
 authors:
   - Mohammad Mukarram
   - Sadaf Choudhary
@@ -23,7 +21,7 @@ author_notes:
   - Co-author
   - Co-author
   - Co-author
-doi: ""
+doi: doi.org/10.3390/antiox11010020
 abstract: The prominent cultivation of lemongrass relies on the pharmacological
   incentives of its essential oil. The lemongrass essential oil (LEO) has a
   significant amount of citral (mixture of geranial and neral), isoneral,
@@ -41,8 +39,10 @@ abstract: The prominent cultivation of lemongrass relies on the pharmacological
   lemongrass extracts in cancer and health treatment, and in food industry
   applications.
 draft: false
-featured: false
-url_pdf: "publication/lemongrass-essential-oil-components-with-antimicrobial-and-anticancer-activities/antioxidants-11-00020-2-2.pdf"
+url_pdf: publication/lemongrass-essential-oil-components-with-antimicrobial-and-anticancer-activities/antioxidants-11-00020-2-2.pdf
+publication_types:
+  - "2"
+featured: true
 image:
   filename: featured.png
   focal_point: Top
