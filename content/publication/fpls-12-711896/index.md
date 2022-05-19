@@ -1,6 +1,6 @@
 ---
-title: Effects of cis-Jasmone treatment of brassicas on interactions with Myzus
-  persicae aphids and their parasitoid Diaeretiella rapae
+publication_types:
+  - "2"
 authors:
   - admin
   - Anca Covaci
@@ -8,14 +8,6 @@ authors:
   - Islam Sobhy
   - William Kirk
   - Toby Bruce
-author_notes:
-  - First author
-  - Co-author
-  - Co-author
-  - Co-author
-  - Co-author
-  - Corresponding author
-publication_short: ""
 abstract: "There is a need to develop new ways of protecting plants against
   aphid attack. Here, we investigated the effect of a plant defence activator,
   cis-jasmone (CJ), in a range of cultivars of Brassica napus, Brassica rapa and
@@ -38,24 +30,32 @@ abstract: "There is a need to develop new ways of protecting plants against
   CJ in a wide range of brassica germplasm. The implication is that CJ is a
   promising treatment that could be used in brassica crops as part of an
   integrated pest management system."
-tags: []
 url_pdf: ""
-publication_types:
-  - "2"
+tags: []
 image:
-  caption: "Frontiers in Plant Science"
+  caption: Frontiers in Plant Science
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: Hello World
+summary: ""
 url_dataset: ""
 url_project: ""
+publication_short: ""
 url_source: ""
 url_video: ""
+author_notes:
+  - First author
+  - Co-author
+  - Co-author
+  - Co-author
+  - Co-author
+  - Corresponding author
 publication: In *Frontiers in Plant Science*
 featured: true
 date: 2021-10-01T00:00:00.000Z
 url_slides: ""
+title: Effects of cis-Jasmone treatment of brassicas on interactions with Myzus
+  persicae aphids and their parasitoid Diaeretiella rapae
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
