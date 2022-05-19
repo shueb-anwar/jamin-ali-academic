@@ -18,4 +18,4 @@ design:
     image_darken: 0
     text_color_light: false
 ---
-Induced Defence, Plant-Plant Communication
+Induced Defence, Plant-Plant CommunicatioN
