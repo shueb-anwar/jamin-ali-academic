@@ -37,7 +37,13 @@ abstract: The prominent cultivation of lemongrass relies on the pharmacological
   anticancer mechanisms exerted by lemongrass components are required. The
   present review intends to provide a timely discussion on the relevance of
   lemongrass extracts in cancer and health treatment, and in food industry
-  applications.
+  applications. The prominent cultivation of lemongrass relies on the
+  pharmacological incentives of its essential oil. The lemongrass essential oil
+  (LEO) has a significant amount of citral (mixture of geranial and neral),
+  isoneral, isogeranial, geraniol, geranyl acetate, citronellal, citronellol,
+  germacrene-D, and elemol in addition to numerous other bioactive compounds.
+  These components confer various medicinal activities to LEO including
+  antifungal, antibacterial, antiviral, anticancer, and antioxidant properties.
 draft: false
 url_pdf: publication/lemongrass-essential-oil-components-with-antimicrobial-and-anticancer-activities/antioxidants-11-00020-2-2.pdf
 publication_types:
@@ -47,12 +53,6 @@ image:
   filename: featured.png
   focal_point: Top
   preview_only: false
-summary: The prominent cultivation of lemongrass relies on the pharmacological
-  incentives of its essential oil. The lemongrass essential oil (LEO) has a
-  significant amount of citral (mixture of geranial and neral), isoneral,
-  isogeranial, geraniol, geranyl acetate, citronellal, citronellol,
-  germacrene-D, and elemol in addition to numerous other bioactive compounds.
-  These components confer various medicinal activities to LEO including
-  antifungal, antibacterial, antiviral, anticancer, and antioxidant properties.
+summary: ""
 date: 2021-12-07T15:32:52.727Z
 ---
