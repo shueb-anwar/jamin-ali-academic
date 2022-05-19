@@ -52,7 +52,7 @@ featured: true
 image:
   filename: featured.png
   focal_point: Top
-  preview_only: false
+  preview_only: true
 summary: ""
 date: 2021-12-07T15:32:52.727Z
 ---
