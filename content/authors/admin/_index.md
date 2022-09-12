@@ -39,9 +39,9 @@ education:
       year: 2014
 superuser: true
 highlight_name: true
-title: Jamin Ali
+title: Dr Jamin Ali
 email: j.alirana@yahoo.com
 ---
-I am a Final year Ph.D. student working in the lab of Prof Toby Bruce at Keele University, United Kingdom. My research focuses on exploiting the chemical ecology of insect-plant tritrophic interaction, induced plant defence to sustainably manage phytophagous insect pests and minimize crop losses.
+I am an applied insect chemical ecologist whose expertise lies at the interface of ecology, biology, and chemistry. My research focuses on using insect and plant derived semiochemicals to develop novel tools for sustainable management of phytophagous insect pests in global agricultural environments. I am also interested in developing data-driven approaches to inform integrated pest management decisions in horticultural production systems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
