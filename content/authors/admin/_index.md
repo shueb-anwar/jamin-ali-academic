@@ -26,6 +26,8 @@ social:
 organizations:
   - name: University of Keele
     url: https://www.keele.ac.uk/
+  - name: Jilin Agricultural University
+    url: https://gjjy.jlau.edu.cn/info/1040/1377.htm
 education:
   courses:
     - course: PhD Chemical Ecology (Applied Entomology)
@@ -42,6 +44,6 @@ highlight_name: true
 title: Dr Jamin Ali
 email: j.alirana@yahoo.com
 ---
-I am an applied insect chemical ecologist whose expertise lies at the interface of ecology, biology, and chemistry. My research focuses on using insect and plant derived semiochemicals to develop novel tools for sustainable management of phytophagous insect pests in global agricultural environments. I am also interested in developing data-driven approaches to inform integrated pest management decisions in horticultural production systems.
+As an applied entomologist specialising in Chemical Ecology, my research insect-plant interaction, by exploring induced plant defense mechanisms, I strive to pioneer innovative solutions for Integrated Pest Management, contributing to sustainable Pest Management practices. My expertise lies in harnessing the power of semiochemicals to develop novel tools, ensuring the effective and environmentally conscious management of phytophagous insect pests across diverse agricultural landscape.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
