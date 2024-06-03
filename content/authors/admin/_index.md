@@ -1,5 +1,5 @@
 ---
-role: Research Scholar, School of Life Sciences
+role: Foreign Research Expert, College of Plant Protection
 avatar_filename: avatar.jpg
 bio: My research focuses on exploiting the chemical ecology of insect-plant
   tritrophic interaction, induced plant defence to sustainably manage
