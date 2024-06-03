@@ -2,7 +2,6 @@
 title: Exogenous application of Methyl Salicylate induces defense in Brassica
   against Peach potato-aphid Myzus persicae
 publication_types:
-  - "0"
   - "2"
 authors:
   - Jamin Ali
