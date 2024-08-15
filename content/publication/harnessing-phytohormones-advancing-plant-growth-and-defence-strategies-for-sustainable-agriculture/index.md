@@ -51,6 +51,7 @@ abstract: >-
 
   fostering sustainability and resilience in agricultural settings.
 draft: false
+url_pdf: publication/harnessing-phytohormones-advancing-plant-growth-and-defence-strategies-for-sustainable-agriculture/Advancing-Plant-Growth-and-DefenceStrategies-for-Sustainable-Agriculture.pdf
 featured: false
 image:
   filename: null
